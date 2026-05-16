@@ -16,6 +16,7 @@ images-static.iracing.com
 status.iracing.com
 www.iracing.com
 dl.tradingpaints.com
+dl.tradingpaints.gg
 dl1.tradingpaints.gg
 dl2.tradingpaints.gg
 fetch.tradingpaints.gg
@@ -31,3 +32,5 @@ br-sao.iracing.com
 au-syd.iracing.com
 cloudflare.com
 cloudflare-dns.com
+garage61.net
+forums.iracing.com
